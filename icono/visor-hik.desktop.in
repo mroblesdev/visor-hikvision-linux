@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Visor HIK
+Comment=Visor en vivo para DVR/NVR Hikvision
+Comment[en]=Live viewer for Hikvision DVR/NVR
+Exec="@RUTA@"
+Icon=visor-hik
+Terminal=false
+Categories=AudioVideo;Video;
+StartupWMClass=Visor-hik

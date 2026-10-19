@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2d3e50"/>
+      <stop offset="1" stop-color="#141c26"/>
+    </linearGradient>
+    <linearGradient id="pantalla" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3f8fd6"/>
+      <stop offset="1" stop-color="#1c4f82"/>
+    </linearGradient>
+    <radialGradient id="lente" cx="0.4" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#7fd4ff"/>
+      <stop offset="1" stop-color="#0d47a1"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="url(#fondo)"/>
+  <rect x="18" y="18" width="43" height="43" rx="6" fill="url(#pantalla)"/>
+  <rect x="67" y="18" width="43" height="43" rx="6" fill="url(#pantalla)"/>
+  <rect x="18" y="67" width="43" height="43" rx="6" fill="url(#pantalla)"/>
+  <rect x="67" y="67" width="43" height="43" rx="6" fill="url(#pantalla)"/>
+  <circle cx="64" cy="64" r="27" fill="#0f1720" stroke="#e8eef4" stroke-width="6"/>
+  <circle cx="64" cy="64" r="13" fill="url(#lente)"/>
+  <circle cx="59" cy="59" r="4" fill="#ffffff" opacity="0.85"/>
+  <circle cx="99" cy="29" r="6" fill="#ef4444"/>
+</svg>
