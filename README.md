@@ -2,6 +2,8 @@
 
 Visor en vivo para DVR, NVR y cámaras **Hikvision** en Linux, compatible con la **clave de cifrado de Hik-Connect** (encriptación de stream / código de verificación).
 
+[English version](README.en.md)
+
 ## ¿Por qué existe?
 
 Si activas la encriptación de stream en un equipo Hikvision, en Linux prácticamente no hay forma de ver las cámaras:
