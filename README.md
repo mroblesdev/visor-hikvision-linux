@@ -63,7 +63,7 @@ https://www.hikvision.com/mx/support/download/sdk/device-network-sdk--for-linux-
 ### 2. Clona el repositorio y coloca el SDK
 
 ```bash
-git clone https://github.com/TU_USUARIO/visor-hikvision-linux.git
+git clone https://github.com/mroblesdev/visor-hikvision-linux.git
 cd visor-hikvision-linux
 unzip ~/Descargas/EN-HCNetSDK*_linux64.zip -d /tmp/hiksdk
 mkdir sdk

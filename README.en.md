@@ -54,7 +54,7 @@ https://www.hikvision.com/en/support/tools/hitools/?type=IP
 2. Clone this repository and copy the SDK `incEn` and `lib` folders into `sdk/`:
 
 ```bash
-git clone https://github.com/YOUR_USER/visor-hikvision-linux.git
+git clone https://github.com/mroblesdev/visor-hikvision-linux.git
 cd visor-hikvision-linux
 unzip ~/Downloads/EN-HCNetSDK*_linux64.zip -d /tmp/hiksdk
 mkdir sdk
